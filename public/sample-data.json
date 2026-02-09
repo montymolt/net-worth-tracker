@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-02-01",
+    "assets": [
+      { "name": "Checking", "category": "cash", "value": 5200 },
+      { "name": "AMZN", "category": "stocks", "value": 7500 },
+      { "name": "BTC", "category": "crypto", "value": 21000 }
+    ]
+  },
+  {
+    "date": "2026-03-01",
+    "assets": [
+      { "name": "Checking", "category": "cash", "value": 5000 },
+      { "name": "AMZN", "category": "stocks", "value": 7600 },
+      { "name": "BTC", "category": "crypto", "value": 23000 }
+    ]
+  },
+  {
+    "date": "2026-04-01",
+    "assets": [
+      { "name": "Checking", "category": "cash", "value": 5400 },
+      { "name": "AMZN", "category": "stocks", "value": 7800 },
+      { "name": "BTC", "category": "crypto", "value": 25000 }
+    ]
+  }
+]
