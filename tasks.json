@@ -1,0 +1,22 @@
+[
+  {
+    "id": "auth-scaffold",
+    "description": "Scaffold simple auth UI pages (local-only, sample data)",
+    "script": "scripts/task-auth-scaffold.js"
+  },
+  {
+    "id": "asset-ui",
+    "description": "Add asset management UI (add/edit assets for a date)",
+    "script": "scripts/task-asset-ui.js"
+  },
+  {
+    "id": "charts-config",
+    "description": "Add configurable charts components and UI hooks",
+    "script": "scripts/task-charts-config.js"
+  },
+  {
+    "id": "csv-import-ui",
+    "description": "Add CSV import page + preview hookup",
+    "script": "scripts/task-csv-import-ui.js"
+  }
+]
